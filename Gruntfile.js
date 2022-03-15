@@ -16,7 +16,7 @@ module.exports = function(grunt) {
       },
       pages: {
         options: {
-          remote: 'git@github.com:<username>/<githubrepo>.git',
+          remote: 'git@github.com:marykamau2/Applications.git',
           branch: 'gh-pages'
         }
       },
